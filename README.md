@@ -105,4 +105,4 @@ logger - Get log file
 
 ## Thanks to 
 * [Pyrogram](https://github.com/pyrogram/pyrogram)
-* Original [Repo](https://github.com/)
+* [Original Repo(https://github.com/EvamariaTG/EvaMaria)
