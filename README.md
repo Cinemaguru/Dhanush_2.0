@@ -1,4 +1,4 @@
-# <b>ᏒΞᎠFOX</b>
+# <b>Filmspoter</b>
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+ᏒΞᎠFOX!;created+by+Filmspoter!;A+simple+autofilter+Bot!;Auto+filter+with+double+button!;start+message+with+pic!;and+all+other+features!)
  ⚚ ℭ𝔩𝔦𝔠𝔨 𝔗𝔥𝔢 ℑ𝔪𝔞𝔤𝔢 𝔗𝔬 𝔇𝔢𝔭𝔩𝔬𝔶 𝔜𝔬𝔲𝔯 𝔄𝔭𝔭 ⚚
 
@@ -82,7 +82,7 @@ Check [`sample_info.py`](sample_info.py) before editing [`info.py`](info.py) fil
 * `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
 ### Optional Variables
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used seperated by space )
-* Check [info.py](https://github.com/EvamariaTG/evamaria/blob/master/info.py) for more
+* Check [info.py](https://github.com/Cinemaguru/Dhanush_2.0/blob/master/info.py) for more
 
 ## Note
 * Currently the [API used](http://www.omdbapi.com) in this repo is allowing 1000 requests per day. [You may not get posters if its crossed](https://t.me/ThankTelegram/910168). 
@@ -105,4 +105,5 @@ logger - Get log file
 
 ## Thanks to 
 * [Pyrogram](https://github.com/pyrogram/pyrogram)
-* [Original Repo(https://github.com/EvamariaTG/EvaMaria)
+* [Original Repo](https://github.com/EvamariaTG/EvaMaria)
+* [For me](https://github.com/Filmspoters)
