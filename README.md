@@ -22,7 +22,7 @@
 
 <h3 align="center">🅲🅾️🅽🆃🅰️🅲🆃<img align="center" src="https://github.com/Cinemaguru/Dhanush_2.0/blob/main/assets/Handshake.gif" height="33px" /></h3>
 <p align="center">
-<a href="https://t.me/filmspoteradmin"><img alt="Telegram" src="https://img.shields.io/badge/𝙳𝙴𝚅 1-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://t.me/filmspoteradmin"><img alt="Telegram" src="https://img.shields.io/badge/🅓🅔🅥🅔🅛🅞🅟🅔🅡-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
 
