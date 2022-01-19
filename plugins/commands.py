@@ -165,7 +165,7 @@ async def delete(bot, message):
     """Delete file from database"""
     reply = message.reply_to_message
     if reply and reply.media:
-        msg = await message.reply("𝐇𝐚𝐜𝐤𝐢𝐧𝐠 𝐀𝐥𝐥....🙈", quote=True)
+        msg = await message.reply("🙈𝐇𝐚𝐜𝐤𝐢𝐧𝐠 𝐀𝐥𝐥....🙈", quote=True)
     else:
         await message.reply('Reply to file with /delete which you want to delete', quote=True)
         return
@@ -197,12 +197,12 @@ async def delete_all_index(bot, message):
             [
                 [
                     InlineKeyboardButton(
-                        text="🅈🄴🅂", callback_data="autofilter_delete"
+                        text="🆈🅴🆂", callback_data="autofilter_delete"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        text="🄲🄰🄽🄲🄴🄻", callback_data="close_data"
+                        text="🅲🅰️🅽🅲🅴🅻", callback_data="close_data"
                     )
                 ],
             ]
