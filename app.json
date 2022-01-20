@@ -1,7 +1,7 @@
 {
-    "name": "ᏒΞᎠFOX",
+    "name": "🅳🅷🅰️🅽🆄🆂🅷",
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
-    "logo": "https://telegra.ph/file/54df33f73578ab9bda399.jpg",
+    "logo": "https://telegra.ph/file/aeb9cf449b84e829ae483.jpg",
     "keywords": [
       "telegram",
       "auto-filter",
@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Aadhi000/Red-Fox",
-    "repository": "https://github.com/Aadhi000/Red-Fox",
+    "website": "https://github.com/Cinemaguru/Dhanush_2.0",
+    "repository": "https://github.com/Cinemaguru/Dhanush_2.0",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
