@@ -6,7 +6,6 @@ class script(object):
 𝘏𝘦𝘳𝘦 𝘐𝘴 𝘛𝘩𝘦 𝘏𝘦𝘭𝘱 𝘍𝘰𝘳 𝘔𝘺 𝘊𝘰𝘮𝘮𝘢𝘯𝘥𝘴."""
     ABOUT_TXT = """
 ⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆
-[Forwarded from FS°᭄Hacker_10么]
 🤖 𝕄𝕐 ℕ𝔸𝕄𝔼🤖: <a href="https://t.me/FSDhanushbot"> 🅳🅷🅰️🅽🆄🆂🅷</a>
 
 📝 𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖📝: 🅿️🆈🆃🅷🅾️🅽3⃣
@@ -19,7 +18,7 @@ class script(object):
 
 🗃𝔻𝕒𝕥𝕒𝕓𝕒𝕤𝕖 𝕠𝕟 🗃: <a href="https://www.mongodb.com/">🅼🅾️🅽🅶🅾️ 🅳🅱️</a>
 
-   🧑‍💻𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 🧑‍💻: <a href="https://t.me/Hacker_A10">🅷🅰️🅲🅺🅴🆁_🅰️1️⃣0️⃣ 🇮🇳/🇧🇭</a>
+   🧑‍💻𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 🧑‍💻: <a href="https://t.me/Hacker_A10">🅷🅰️🅲🅺🅴🆁_🅰️1️⃣0️⃣ 🇮🇳/🇧🇭</a>"""
    
     SOURCE_TXT = """<b>NOTE:</b>
 - 𝑰 𝒂𝒎  𝒂 𝒐𝒑𝒆𝒏 𝒔𝒐𝒖𝒓𝒄𝒆 𝒑𝒓𝒐𝒋𝒆𝒄𝒕. 
