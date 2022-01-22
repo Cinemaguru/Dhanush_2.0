@@ -20,6 +20,7 @@ class script(object):
 🗃𝔻𝕒𝕥𝕒𝕓𝕒𝕤𝕖 𝕠𝕟 🗃: <a href="https://www.mongodb.com/">🅼🅾️🅽🅶🅾️ 🅳🅱️</a>
 
    🧑‍💻𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 🧑‍💻: <a href="https://t.me/Hacker_A10">🅷🅰️🅲🅺🅴🆁_🅰️1️⃣0️⃣ 🇮🇳/🇧🇭</a>
+   
     SOURCE_TXT = """<b>NOTE:</b>
 - 𝑰 𝒂𝒎  𝒂 𝒐𝒑𝒆𝒏 𝒔𝒐𝒖𝒓𝒄𝒆 𝒑𝒓𝒐𝒋𝒆𝒄𝒕. 
 - ՏOᑌᖇᑕᗴ ᑕOᗪᗴ - <a href="https://github.com/Lallu-lallus/AnnaBen_robot"> 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 </a>
