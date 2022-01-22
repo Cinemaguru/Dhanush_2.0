@@ -252,10 +252,10 @@ This module only works for my admins
 • /broadcast - to broadcast a message to all users."""
 
     STATUS_TXT = """<b>❈ Total Files ››</b> <code>{}</code>
-<b>❈ Total Users ››</b> <code>{}</code>
-<b>❈ Total Chats ››</b> <code>{}</code>
-<b>❈ Used Storage ››</b> <code>{}</code> MB
-<b>❈ Free Storage ››</b> <code>{}</code> MB"""
+<b>🧑Total Users🧑 ››</b> <code>{}</code>
+<b> 💬Total Groups💬 ››</b> <code>{}</code>
+<b>🗂Used Storage🗂 ››</b> <code>{}</code> MB
+<b>📂Free Storage📂 ››</b> <code>{}</code> MB"""
 
     FORCESUB_TXT = """**♦️ READ THIS INSTRUCTION ♦️**
 
