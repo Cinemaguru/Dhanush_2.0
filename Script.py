@@ -6,16 +6,20 @@ class script(object):
 𝘏𝘦𝘳𝘦 𝘐𝘴 𝘛𝘩𝘦 𝘏𝘦𝘭𝘱 𝘍𝘰𝘳 𝘔𝘺 𝘊𝘰𝘮𝘮𝘢𝘯𝘥𝘴."""
     ABOUT_TXT = """
 ⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆⋆
-╔═════❰ ᏒΞᎠFOX ❱══⪼𒆜
-║╭━━━━━━━━━━━━━━━⏤͟͟͞͞★ 
-║┣⪼ 𝙼𝚈 𝙽𝙰𝙼𝙴 - <a href="https://t.me/RedFoxx_Bot"> ᏒΞᎠFOX </a>
-║┣⪼ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 - <a href="https://t.me/Aadhi010"> 𝙰𝙰𝙳𝙷𝙸 </a>
-║┣⪼ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 - 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
-║┣⪼ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 - 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
-║┣⪼ 𝙳𝙰𝚃𝙰𝙱𝙰𝚂𝙴 - 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
-║┣⪼ 𝚂𝙴𝚁𝚅𝙴𝚁 -  𝙷𝙴𝚁𝙾𝙺𝚄
-║┣⪼ 𝙱𝚄𝙸𝙻𝚃 𝚂𝚃𝙰𝚃𝚂 - v1.0.2 [ 𝙱𝙴𝚃𝙰 ]
-║╰━━━━━━━━━━━━━━━⏤͟͟͞͞★ ╚══════════════════⪼𒆜"""
+[Forwarded from FS°᭄Hacker_10么]
+🤖 𝕄𝕐 ℕ𝔸𝕄𝔼🤖: <a href="https://t.me/FSDhanushbot"> 🅳🅷🅰️🅽🆄🆂🅷</a>
+
+📝 𝕃𝕒𝕟𝕘𝕦𝕒𝕘𝕖📝: 🅿️🆈🆃🅷🅾️🅽3⃣
+
+𝕊𝕦𝕡𝕡𝕠𝕣𝕥𝕖𝕕 𝔸𝕡𝕡𝕝𝕚𝕔𝕒𝕥𝕚𝕠𝕟 : <a href="https://my.telegram.org/"> 🆃🅴🅻🅴🅶🆁🅰️🅼</a>
+
+📚 𝕃𝕀𝔹ℝ𝔸ℝ𝕐📚: <a href="https://docs.pyrogram.org/"> 🅿️🆈🆁🅾️🅶🆁🅰️🅼</a>
+
+📡 ℍ𝕠𝕤𝕥𝕖𝕕 𝕠𝕟📡: <a href="https://herokuapp.com/"> 🅷🅴🆁🅾️🅺🆄</a>
+
+🗃𝔻𝕒𝕥𝕒𝕓𝕒𝕤𝕖 𝕠𝕟 🗃: <a href="https://www.mongodb.com/">🅼🅾️🅽🅶🅾️ 🅳🅱️</a>
+
+   🧑‍💻𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 🧑‍💻: <a href="https://t.me/Hacker_A10">🅷🅰️🅲🅺🅴🆁_🅰️1️⃣0️⃣ 🇮🇳/🇧🇭</a>
     SOURCE_TXT = """<b>NOTE:</b>
 - 𝑰 𝒂𝒎  𝒂 𝒐𝒑𝒆𝒏 𝒔𝒐𝒖𝒓𝒄𝒆 𝒑𝒓𝒐𝒋𝒆𝒄𝒕. 
 - ՏOᑌᖇᑕᗴ ᑕOᗪᗴ - <a href="https://github.com/Lallu-lallus/AnnaBen_robot"> 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 </a>
