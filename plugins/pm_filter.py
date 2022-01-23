@@ -901,7 +901,8 @@ async def advantage_spell_chok(msg):
                 )
             ] for k, movie in enumerate(movielist)]
     btn.append([InlineKeyboardButton(text="Close", callback_data=f'spolling#{user}#close_spellcheck')])
-    await msg.reply("<b>👋Hey {} /n Sorry, No Movie/Series Related to the Given Word Was Found 🥺 /n Please Go to Google and Confirm the  href='https://www.google.com'>🔍 Search 🔎</a> /n ✍️Or Your Spelling Is Correct Report To Admins For Add Requested File Example:- @admins kurup<b>", reply_markup=InlineKeyboardMarkup(btn))
+    await msg.reply("<b>I couldn't find anything related to that
+Did you mean any one of these?<b>", reply_markup=InlineKeyboardMarkup(btn))
     
 
 async def manual_filters(client, message, text=False):
